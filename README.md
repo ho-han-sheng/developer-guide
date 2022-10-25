@@ -43,7 +43,7 @@ scoop install git
 ### Hugo-extended
 This is the framework used for our website, without which you cannot render your webpage locally.
 
-**Note:** We are using [hugo-extended](https://gohugo.io/getting-started/installing#quick-install)
+**Important:** We are using [hugo-extended](https://gohugo.io/getting-started/installing#quick-install)
 
 For Windows scoop users, simply input the following one-liner in powershell:
 ```
