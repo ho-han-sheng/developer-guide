@@ -45,6 +45,14 @@ For Windows scoop users, simply input the following one-liner in powershell:
 scoop install git
 ```
 
+### Go
+A dependency for Hugo-extended.
+
+For Windows scoop users, simply input the following one-liner in powershell:
+```
+scoop install go
+```
+
 ### Hugo-extended
 This is the framework used for our website, without which you cannot render your webpage locally.
 
@@ -53,14 +61,6 @@ This is the framework used for our website, without which you cannot render your
 For Windows scoop users, simply input the following one-liner in powershell:
 ```
 scoop install hugo-extended
-```
-
-### Go
-A dependency for Hugo-extended.
-
-For Windows scoop users, simply input the following one-liner in powershell:
-```
-scoop install go
 ```
 
 ### Nodejs
