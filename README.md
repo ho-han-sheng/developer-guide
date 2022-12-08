@@ -48,6 +48,8 @@ scoop install git
 ### Go
 A dependency for Hugo-extended.
 
+[Go documentation](https://go.dev/doc/)
+
 For Windows scoop users, simply input the following one-liner in powershell:
 ```
 scoop install go
@@ -65,6 +67,8 @@ scoop install hugo-extended
 
 ### Nodejs
 May be required for compiling the server on your local computer.
+
+[Nodejs documentation](https://nodejs.org/en/docs/)
 
 For Windows scoop users, simply input the following one-liner in powershell:
 ```
