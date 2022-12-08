@@ -31,6 +31,11 @@ Without these software and dependencies installed, you will not be able to work 
 You can access windows powershell by typing it in the search bar:
 ![](/assets/images/powershell-screenshot.png)
 
+At any time, you may run the following code to identify which softwares you have already installed:
+```
+scoop list
+```
+![An example](/assets/images/scoop-list.png
 
 ### Git
 [Git](https://git-scm.com/downloads) is our VCS of choice.
@@ -50,3 +55,18 @@ For Windows scoop users, simply input the following one-liner in powershell:
 scoop install hugo-extended
 ```
 
+### Go
+A dependency for Hugo-extended.
+
+For Windows scoop users, simply input the following one-liner in powershell:
+```
+scoop install go
+```
+
+### Nodejs
+May be required for compiling the server on your local computer.
+
+For Windows scoop users, simply input the following one-liner in powershell:
+```
+scoop install nodejs
+```
