@@ -35,7 +35,7 @@ At any time, you may run the following code to identify which softwares you have
 ```
 scoop list
 ```
-![An example](/assets/images/scoop-list.png
+![An example](/assets/images/scoop-list.png)
 
 ### Git
 [Git](https://git-scm.com/downloads) is our VCS of choice.
