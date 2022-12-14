@@ -7,7 +7,7 @@
   - [ ] What is GitHub
   - [ ] What is Git
   - [ ] Visual step by step?
-- [ ] Installing Prerequsite Software
+- [ ] Installing Prerequisite Software
   - [ ] Scoop for Windows
   - [ ] Git
   - [ ] Go
@@ -21,17 +21,34 @@
 - [ ] Cloning the Fork to Local Computer
   - [ ] What is cloning?
   - [ ] Visual step by Step
-- [ ] Issue Template
+- [ ] Our Workflow (Brief overview)
+- [ ] Understanding Wowchemy Folder Organisation
 
 ## Making Edits
 
+### Branching
+
+- [ ] What is a branch?
+- [ ] Creating a branch
+
+### Editing Items
+
 - [ ] Creating an Event Post
 - [ ] Creating a Resource
+
+### Checking Changes
+
+- [ ] Hosting Local Webserver
 
 ## Making Commits
 
 - [ ] What is a commit?
 - [ ] How to commit locally after saving changes on files
 - [ ] How to push commits to remote branch
+- [ ] Pulling updates from upstream repository
+- [ ] Merging conflicts
 
 ## Submitting a Pull Request
+
+- [ ] Creating the pull request
+  - [ ] Ensure checks pass
