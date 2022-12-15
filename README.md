@@ -17,7 +17,7 @@ This repository will serve as onboarding material for future users managing the 
   - [x] Go
   - [x] Hugo-extended
   - [x] Nodejs
-  - [x] Integrated Development Environment (IDE)
+  - [x] Code Editors
   - [x] Git GUI (Sourcetree or GitHub Desktop?)
 - [ ] Forking the Repository
   - [ ] What is Forking?

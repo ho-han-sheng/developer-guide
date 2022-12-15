@@ -10,7 +10,7 @@ Essentially, Git is a version control software (VCS) and GitHub is a website tha
 
 ### Github Account
 
-This account is required for you to collaborate and interact with our codebase. As all profiles and commits are **public**, I highly suggest choosing a professional handle and one that allows reviewers to clearly identify you.
+This account is required for you to collaborate and interact with our codebase. As all profiles and commits are **public**, we highly suggest choosing a professional handle and one that allows reviewers to clearly identify you.
 
 You may also refer to [GitHub's exisiting guides and documentation](https://docs.github.com/en).
 
@@ -158,11 +158,11 @@ For MacOS homebrew users, simply input the following into the macOS terminal:
 brew list
 ```
 
-### Integrated Development Environment (IDE)
+### Code Editors
 
 This refers to software that allow you to edit code, usually with syntax highlighting.
 
-I personally use [Visual Studio Code](https://code.visualstudio.com/).
+I (Han Sheng) personally use [Visual Studio Code](https://code.visualstudio.com/).
 
 Other options include:
 
@@ -178,4 +178,30 @@ Other GUIs such as [Sourcetree](https://www.sourcetreeapp.com/) may require addi
 
 ### What is Forking?
 
+From the [GitHub Docs](https://docs.github.com/en/get-started/quickstart/fork-a-repo#about-forks):
+
+> A fork is a new repository that shares code and visibility settings with the original “upstream” repository.
+
+Essentially, a fork is your copy of the entire repository. This allows multiple people to develop independently and simultaneously as everyone has their own copy. With this, you can experiment with and make edits to your own copy without affecting our "live" webpage and the main codebase.
+
+The belowmentioned steps will guide you in forking our website's repository to your GitHub account.
+
 ### Steps to Fork the Website Repository
+
+1. Navigate to our website's repository and click on the `Fork` button in the top right.
+
+![Highlighted fork button](../assets/images/fork-1.png)
+
+2. Click on the green `Create fork` button on this window.
+
+![Creating a fork](../assets/images/fork-2.png)
+
+3. You should now see your forked copy of the repository at `your-username/PsyConnect.github.io` forked from `PsyConnect/PsyConnect.github.io`.
+
+![Forked repository](../assets/images/fork-3.png)
+
+Congratulations! You now have your own online copy of the repository. But what if you (1) wanted to edit your code offline, (2) don't have an internet connection or (3) want to make multiple changes to different files?
+
+## Cloning the Fork to Local Computer
+
+GitHub's online code editor while useful has its limitations, therefore we need to obtain an offline copy of the repository for us to work on it with our installed code editors. However, this is not just a simple downloading of all files, we also want our local copy on our computers to be synchronised with our fork on GitHub. We can achieve this with cloning!
