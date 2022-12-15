@@ -1,5 +1,6 @@
 # workflow-tutorial
-This repository will serve as onboarding material for future users managing the [PsyConnect website](https://github.com/PsyConnect/PsyConnect.github.io). 
+
+This repository will serve as onboarding material for future users managing the [PsyConnect website](https://github.com/PsyConnect/PsyConnect.github.io).
 
 ## Plan for developer's guide
 
@@ -19,14 +20,17 @@ This repository will serve as onboarding material for future users managing the 
   - [x] Nodejs
   - [x] Code Editors
   - [x] Git GUI (Sourcetree or GitHub Desktop?)
-- [ ] Forking the Repository
-  - [ ] What is Forking?
-  - [ ] Visual step by step for forking
-- [ ] Cloning the Fork to Local Computer
-  - [ ] What is cloning?
-  - [ ] Visual step by Step
-- [ ] Our Workflow (Brief overview)
-- [ ] Understanding Wowchemy Folder Organisation
+- [x] Forking the Repository
+  - [x] What is Forking?
+  - [x] Visual step by step for forking
+- [x] Cloning the Fork to Local Computer
+  - [x] What is cloning?
+  - [x] Visual step by Step
+- [x] Our Workflow (Brief overview)
+
+### Understanding Wowchemy Folder Organisation
+
+- [ ] Explain folder layout
 
 ### Making Edits
 

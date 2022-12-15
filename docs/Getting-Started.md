@@ -223,26 +223,13 @@ Feel free to refer to the [GitHub Docs](https://docs.github.com/en/get-started/q
 
 ## Our Workflow
 
-## Wowchemy Folder Organisation
+How you will eventually make a change on our website follows a certain flow with Git. The steps will be elaborated on another page but the gist is as follows:
 
-The folder layout of our repository is **extremely important**, it determines ...
-
-```
-├── src
-│   ├── controller
-│   │   ├── **/*.css
-│   ├── views
-│   ├── model
-│   ├── index.js
-├── public
-│   ├── css
-│   │   ├── **/*.css
-│   ├── images
-│   ├── js
-│   ├── index.html
-├── dist (or build
-├── node_modules
-├── package.json
-├── package-lock.json 
-└── .gitignore
-```
+1. Create a branch
+2. Make your changes
+3. Commit your changes locally
+4. Push your local commits to your remote fork
+5. Submit a pull request in the upstream "live" repository
+6. Address any issues during review
+7. Merge your pull request
+8. Delete your branch
