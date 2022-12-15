@@ -25,23 +25,27 @@ You do not need to install both [Scoop](#scoop-for-windows) and [Homebrew](#home
 You may refer to [Scoop documentation](https://scoop.sh/).
 
 1. Open Windows Powershell by typing in the search bar:
+
 ![Screenshot of search bar](/assets/images/powershell-screenshot.png)
+
 2. Copy and paste the following code into the command-line (This is optional if you are not running a remote script for the first time):
 
-    ```powershell
-    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-    ```
+```powershell
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
 
 3. You may receive a prompt alerting you to the change in execution policy, answer yes to this with Y:
+
 ![Screenshot of execution policy change](/assets/images/execution-policy-change.png)
 
 4. Copy and paste the following code into the command-line:
 
-    ```powershell
-    irm get.scoop.sh | iex
-    ```
+```powershell
+irm get.scoop.sh | iex
+```
 
 5. Wait for scoop to install
+
 ![Screenshot of scoop installation](../assets/images/scoop-install-success.png)
 
 For the following software, you may use [scoop's search function](https://scoop.sh/) to search for the relevant installation commands (in the event that commands listed here are outdated).
