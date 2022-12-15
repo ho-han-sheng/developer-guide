@@ -157,3 +157,25 @@ For MacOS homebrew users, simply input the following into the macOS terminal:
 ```macos
 brew list
 ```
+
+### Integrated Development Environment (IDE)
+
+This refers to software that allow you to edit code, usually with syntax highlighting.
+
+I personally use [Visual Studio Code](https://code.visualstudio.com/).
+
+Other options include:
+
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
+
+### Git Graphical User Interface (GUI)
+
+As our repositiory is hosted on github, [GitHub Desktop](https://desktop.github.com/) would be less troublesome to set up.
+
+Other GUIs such as [Sourcetree](https://www.sourcetreeapp.com/) may require additional user accounts to be created.
+
+## Forking the Repository
+
+### What is Forking?
+
+### Steps to Fork the Website Repository

@@ -2,20 +2,20 @@
 
 ## Getting Started
 
-- [ ] Setting up GitHub
-  - [ ] Link to video tutorials?
-  - [ ] What is GitHub
-  - [ ] What is Git
+- [x] Setting up GitHub
+  - [x] Link to video tutorials?
+  - [x] What is GitHub
+  - [x] What is Git
   - [ ] Visual step by step?
 - [ ] Installing Prerequisite Software
-  - [ ] Scoop for Windows
-  - [ ] Homebrew for MacOS
-  - [ ] Git
-  - [ ] Go
-  - [ ] Hugo-extended
-  - [ ] Nodejs
-  - [ ] Integrated Development Environment (IDE)
-  - [ ] Git GUI (Sourcetree or GitHub Desktop?)
+  - [x] Scoop for Windows
+  - [x] Homebrew for MacOS
+  - [x] Git
+  - [x] Go
+  - [x] Hugo-extended
+  - [x] Nodejs
+  - [x] Integrated Development Environment (IDE)
+  - [x] Git GUI (Sourcetree or GitHub Desktop?)
 - [ ] Forking the Repository
   - [ ] What is Forking?
   - [ ] Visual step by step for forking
