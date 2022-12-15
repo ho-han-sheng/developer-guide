@@ -1,76 +1,58 @@
 # workflow-tutorial
 This repository will serve as onboarding material for future users managing the [PsyConnect website](https://github.com/PsyConnect/PsyConnect.github.io). 
 
-## Prerequisites
+## Plan for developer's guide
 
-### GitHub Account
-You will be using this account to access the applications listed below. As all profiles and commits are public, I highly suggest choosing a professional handle and one that allows reviewers to clearly identify you. 
+### Getting Started
 
-You should also read up on [how to work with GitHub](https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io#getting-started-with-github-memo)
+- [x] Setting up GitHub
+  - [x] Link to video tutorials?
+  - [x] What is GitHub
+  - [x] What is Git
+  - [ ] Visual step by step?
+- [x] Installing Prerequisite Software
+  - [x] Scoop for Windows
+  - [x] Homebrew for MacOS
+  - [x] Git
+  - [x] Go
+  - [x] Hugo-extended
+  - [x] Nodejs
+  - [x] Integrated Development Environment (IDE)
+  - [x] Git GUI (Sourcetree or GitHub Desktop?)
+- [ ] Forking the Repository
+  - [ ] What is Forking?
+  - [ ] Visual step by step for forking
+- [ ] Cloning the Fork to Local Computer
+  - [ ] What is cloning?
+  - [ ] Visual step by Step
+- [ ] Our Workflow (Brief overview)
+- [ ] Understanding Wowchemy Folder Organisation
 
+### Making Edits
 
-## Suggested Software
-For new users without prior experience in coding, I highly recommend downloading a source-code editor (to edit code) and a version control system (VCS) graphical user interface (GUI). 
+#### Branching
 
-### Source-Code Editor/ Integrated Development Environment (IDE)
-I personally use [Visual Studio Code](https://code.visualstudio.com/).
+- [ ] What is a branch?
+- [ ] Creating a branch
 
-Other options include: 
-- [Notepad++](https://notepad-plus-plus.org/downloads/)
+#### Editing Items
 
-### Git GUI
-As our repositiory is hosted on github, [GitHub Desktop](https://desktop.github.com/) would be less troublesome to set up. 
+- [ ] Creating an Event Post
+- [ ] Creating a Resource
 
-Other GUIs such as [Sourcetree](https://www.sourcetreeapp.com/) may require additional user accounts to be created. 
+#### Checking Changes
 
-## Required Resources
-Without these software and dependencies installed, you will not be able to work with our sourcecode. 
+- [ ] Hosting Local Webserver
 
-**Note:** For Windows users, you may wish to utilise [scoop](https://github.com/ScoopInstaller/Scoop#installation) to install the belowmentioned applications for less hassle. I do not use the Apple ecosystem as such, you may need to research on how to install these yourself. 
+### Making Commits
 
-You can access windows powershell by typing it in the search bar:
-![](/assets/images/powershell-screenshot.png)
+- [ ] What is a commit?
+- [ ] How to commit locally after saving changes on files
+- [ ] How to push commits to remote branch
+- [ ] Pulling updates from upstream repository
+- [ ] Merging conflicts
 
-At any time, you may run the following code to identify which softwares you have already installed:
-```
-scoop list
-```
-![An example](/assets/images/scoop-list.png)
+### Submitting a Pull Request
 
-### Git
-[Git](https://git-scm.com/downloads) is our VCS of choice.
-
-For Windows scoop users, simply input the following one-liner in powershell:
-```
-scoop install git
-```
-
-### Go
-A dependency for Hugo-extended.
-
-[Go documentation](https://go.dev/doc/)
-
-For Windows scoop users, simply input the following one-liner in powershell:
-```
-scoop install go
-```
-
-### Hugo-extended
-This is the framework used for our website, without which you cannot render your webpage locally.
-
-**Important:** We are using [hugo-extended](https://gohugo.io/getting-started/installing#quick-install)
-
-For Windows scoop users, simply input the following one-liner in powershell:
-```
-scoop install hugo-extended
-```
-
-### Nodejs
-May be required for compiling the server on your local computer.
-
-[Nodejs documentation](https://nodejs.org/en/docs/)
-
-For Windows scoop users, simply input the following one-liner in powershell:
-```
-scoop install nodejs
-```
+- [ ] Creating the pull request
+  - [ ] Ensure checks pass

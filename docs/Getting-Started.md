@@ -28,7 +28,7 @@ You may refer to [Scoop documentation](https://scoop.sh/).
 
 ![Screenshot of search bar](/assets/images/powershell-screenshot.png)
 
-2. Copy and paste the following code into the command-line (This is optional if you are not running a remote script for the first time):
+2. Copy and paste the following code into the command-line (this is optional if you are not running a remote script for the first time):
 
 ```powershell
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
