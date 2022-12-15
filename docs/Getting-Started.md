@@ -18,7 +18,7 @@ You may also refer to [GitHub's exisiting guides and documentation](https://docs
 
 You do not need to install both [Scoop](#scoop-for-windows) and [Homebrew](#homebrew-for-macos). Choose the relevant package manager for the operating system you are working on (Windows or MacOS).
 
-> ❗ Make sure you install a package manager before the rest of the software to prevent unnecessary headaches
+> ❗ Make sure you install a package manager before the rest of the software to prevent unnecessary headaches.
 
 ### Scoop for Windows
 
@@ -170,7 +170,7 @@ Other options include:
 
 ### Git Graphical User Interface (GUI)
 
-As our repositiory is hosted on github, [GitHub Desktop](https://desktop.github.com/) would be less troublesome to set up.
+As our repositiory is hosted on GitHub, [GitHub Desktop](https://desktop.github.com/) would be less troublesome to set up.
 
 Other GUIs such as [Sourcetree](https://www.sourcetreeapp.com/) may require additional user accounts to be created.
 
@@ -185,6 +185,8 @@ From the [GitHub Docs](https://docs.github.com/en/get-started/quickstart/fork-a-
 Essentially, a fork is your copy of the entire repository. This allows multiple people to develop independently and simultaneously as everyone has their own copy. With this, you can experiment with and make edits to your own copy without affecting our "live" webpage and the main codebase.
 
 The belowmentioned steps will guide you in forking our website's repository to your GitHub account.
+
+> ❗ You should have created and logged in to your GitHub account at this stage.
 
 ### Steps to Fork the Website Repository
 
@@ -205,3 +207,42 @@ Congratulations! You now have your own online copy of the repository. But what i
 ## Cloning the Fork to Local Computer
 
 GitHub's online code editor while useful has its limitations, therefore we need to obtain an offline copy of the repository for us to work on it with our installed code editors. However, this is not just a simple downloading of all files, we also want our local copy on our computers to be synchronised with our fork on GitHub. We can achieve this with cloning!
+
+Feel free to refer to the [GitHub Docs](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) for more information on cloning.
+
+### Steps to Clone the Fork
+
+1. Open up GitHub Desktop and log in to your account. You may wish to refer to `2:48` in the [first video we mentioned](https://youtu.be/8Dd7KRpKeaE?t=168) to guide you through set up.
+2. Go to `File` and click `Clone repository`.
+
+![Screenshot of clone repository](../assets/images/cloning-1.png)
+
+3. Choose the forked repository `your-username/PsyConnect.github.io` and choose where you wish to save it in your computer under `Local path`.
+
+![Screenshot of choosing repository to clone](../assets/images/cloning-2.png)
+
+## Our Workflow
+
+## Wowchemy Folder Organisation
+
+The folder layout of our repository is **extremely important**, it determines ...
+
+```
+├── src
+│   ├── controller
+│   │   ├── **/*.css
+│   ├── views
+│   ├── model
+│   ├── index.js
+├── public
+│   ├── css
+│   │   ├── **/*.css
+│   ├── images
+│   ├── js
+│   ├── index.html
+├── dist (or build
+├── node_modules
+├── package.json
+├── package-lock.json 
+└── .gitignore
+```
