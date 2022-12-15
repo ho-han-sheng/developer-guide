@@ -9,6 +9,7 @@
   - [ ] Visual step by step?
 - [ ] Installing Prerequisite Software
   - [ ] Scoop for Windows
+  - [ ] Homebrew for MacOS
   - [ ] Git
   - [ ] Go
   - [ ] Hugo-extended
