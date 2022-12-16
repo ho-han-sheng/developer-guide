@@ -30,14 +30,23 @@ This repository will serve as onboarding material for future users managing the 
 
 ### Understanding Wowchemy Folder Organisation
 
-- [ ] Explain folder layout
+- [x] Explain folder layout
 
 ### Making Edits
 
 #### Branching
 
-- [ ] What is a branch?
-- [ ] Creating a branch
+- [x] What is a branch?
+- [x] Creating a branch
+
+#### Visual Studio Code Extensions
+
+- [x] bungcip.better-toml
+- [x] rusnasonov.vscode-hugo
+- [x] budparr.language-hugo-vscode
+- [x] yzhang.markdown-all-in-one
+- [x] DavidAnson.vscode-markdownlint
+- [x] natqe.reload
 
 #### Editing Items
 
