@@ -50,8 +50,8 @@ This repository will serve as onboarding material for future users managing the 
 
 #### Editing Items
 
-- [ ] Creating an Event Post
-- [ ] Creating a Resource
+- [x] Creating an Event Post
+- [x] Creating a Resource
 
 #### Checking Changes
 

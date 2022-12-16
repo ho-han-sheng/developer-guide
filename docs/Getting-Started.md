@@ -202,7 +202,7 @@ The belowmentioned steps will guide you in forking our website's repository to y
 
 ![Forked repository](../assets/images/fork-3.png)
 
-Congratulations! You now have your own online copy of the repository. But what if you (1) wanted to edit your code offline, (2) don't have an internet connection or (3) want to make multiple changes to different files?
+Congratulations! You now have your own online copy of the repository. But what if you (1) want to edit your code offline, (2) don't have an internet connection or (3) want to make multiple changes to different files?
 
 ## Cloning the Fork to Local Computer
 
@@ -223,10 +223,10 @@ Feel free to refer to the [GitHub Docs](https://docs.github.com/en/get-started/q
 
 ## Our Workflow
 
-How you will eventually make a change on our website follows a certain flow with Git. The steps will be elaborated on another page but the gist is as follows:
+How you will eventually make a change on our website follows the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow#following-github-flow). The steps will be elaborated in [Making-Edits](Making-Edits.md) but the gist is as follows:
 
-1. Create a branch
-2. Make your changes
+1. Create a branch of your fork
+2. Make your changes locally
 3. Commit your changes locally
 4. Push your local commits to your remote fork
 5. Submit a pull request in the upstream "live" repository
