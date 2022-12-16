@@ -68,62 +68,80 @@ This folder contains all of the icons we use on the website.
 
 ## `config`
 
-### `config.yaml`
+### `config/config.yaml`
 
 Hugo configuration settings for the website.
 
 Refer to the relevant documentation [here](https://gohugo.io/getting-started/configuration/#all-configuration-settings).
 
-### `languages.yaml`
+### `config/languages.yaml`
 
 File containing the supported languages on our website.
 
-### `menus.yaml`
+### `config/menus.yaml`
 
 File determining the menu tabs on the top right.
 
-### `params.yaml`
+### `config/params.yaml`
 
 File determining website functionalities.
 
 ## `content`
 
-### `about`
+### `content/about`
 
 Content for the "About Us" page.
 
-### `admin`
+### `content/admin`
 
 Configuration files for the unused internal content management system (CMS)
 
-### `authors`
+### `content/authors`
 
 Database of authors for tagging to resources and display on "People" page.
 
-### `contact`
+### `content/contact`
 
 Content for the "Contact Us" page.
 
-### `event`
+### `content/event`
 
 Content for the "Events" page.
 
-### `home`
+### `content/home`
 
 Content for the "Home" page.
 
-### `people`
+### `content/people`
 
 Content for the "People" page
 
-### `post`
+### `content/post`
 
 Content for an unused page.
 
-### `resources`
+### `content/resources`
 
 Content for the "resources" page.
 
-### `_index.md`
+### `content/_index.md`
 
 File that determines our "Hero" page. i.e., the first page everyone lands on.
+
+## `data`
+
+### `data/fonts`
+
+Folder for containing custom fonts (if any).
+
+### `data/themes`
+
+Folder for dark / light themes used.
+
+## `public`
+
+Folder automatically created by hugo when deploying the website.
+
+## `resources`
+
+Folder automatically created by hugo when deploying the website.
