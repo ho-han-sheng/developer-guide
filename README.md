@@ -55,7 +55,7 @@ This repository will serve as onboarding material for future users managing the 
 
 #### Checking Changes
 
-- [ ] Hosting Local Webserver
+- [x] Hosting Local Web Server
 
 ### Making Commits
 
