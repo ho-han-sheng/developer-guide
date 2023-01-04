@@ -39,6 +39,10 @@ This repository will serve as onboarding material for future users managing the 
 - [x] What is a branch?
 - [x] Creating a branch
 
+#### Visual Studio Code Initial Setup
+
+- [] Initialising Local Git Repository
+
 #### Visual Studio Code Extensions
 
 - [x] bungcip.better-toml

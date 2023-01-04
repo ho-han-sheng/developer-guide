@@ -24,7 +24,27 @@ Here are the steps to creating a branch in GitHub Desktop:
 
 If you are here as a member of the social media sub-committee, the following sections will be of relevance to you. It is also time for you to start up your code editor! You will also realise that you do not need to type everything from scratch; Most of what you have to do can be copied from existing files and templates.
 
-### Visual Studio Code (VSCode / VSC) Extensions
+### Setting up Visual Studio Code (VSCode/ VSC)
+
+1. On startup, you will be greeted with the `Get Started` page. A few options are available, you would want to use `Open Folder`.
+
+![Screenshot of VSCode Welcome Page](../assets/images/vscode-welcome.png)
+
+2. This opens the native Windows Explorer. Navigate to the location you saved your local, cloned repository to as specified in [Cloning-the-fork-to-local-computer](Getting-Started.md#cloning-the-fork-to-local-computer). Ensure that the folder selected is correct, i.e., `PsyConnect.github.io`.
+   
+    (A) This can be achieved by single-clicking the corresponding folder.
+
+    ![Screenshot of Windows Explorer](../assets/images/folder-selection-1.png)
+
+    (B) Or, by double-clicking into the folder.
+
+    ![Screenshot of Windows Explorer](../assets/images/folder-selection-2.png)
+
+3. Click on `Select Folder`. You should now see the repository's folder structure.
+
+![Screenshot of VSCode](../assets/images/folder-selection-3.png)
+
+### VSCode Extensions
 
 The base installation of VSCode does not come with  functionalities specific to the programming language you use, this prevents unnecessary downloads for features you don't need. Consequently, you need to install these extensions yourself. Fear not for VSCode has a relatively quick and simple installation process for them.
 
