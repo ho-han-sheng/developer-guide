@@ -1,4 +1,4 @@
-# workflow-tutorial
+# developer-guide
 
 This repository will serve as onboarding material for future users managing the [PsyConnect website](https://github.com/PsyConnect/PsyConnect.github.io).
 
